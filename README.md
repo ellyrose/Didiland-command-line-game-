@@ -1,2 +1,2 @@
 # Didiland-command-line-game-
-My first Python based program. To run, download the files and run Digiland.py
+My first Python based program, created in Semester 1 of my Master's course. To run, download the files and run Digiland.py
